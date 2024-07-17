@@ -67,7 +67,7 @@
     cursor: pointer;
   }
   form button:hover{
-    background-color: green;
+    background-color: blue;
   }
   .panda-face {
     height: 7.5em;
