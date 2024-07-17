@@ -1,1 +1,1 @@
-# Panda-Form By Kumar Basnet
+# Panda-Form
