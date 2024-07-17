@@ -51,6 +51,7 @@
   form input:not(:last-child) {
     margin-bottom: 0.9em;
   }
+
   form button {
     font-size: 0.95em;
     padding: 0.8em 0;
